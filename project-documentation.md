@@ -38,7 +38,7 @@ An educational platform API that allows users to manage courses and quizzes. Bui
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Chelseasingla1/Educational-Platform-API.git
 cd education-api
 ```
 
